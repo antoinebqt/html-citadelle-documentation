@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"citadelles"},{"l":"citadelles.bots"},{"l":"citadelles.characters"},{"l":"citadelles.districts"}];updateSearchResults();
